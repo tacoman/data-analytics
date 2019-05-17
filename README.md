@@ -1,0 +1,1 @@
+This repository contains the work from @potent_pwnables's Converge Detroit 2019 workshop on Data Analytics.
